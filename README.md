@@ -19,6 +19,7 @@ Each solution is stored in a separate file. Folder organization (optional):
 | [0183-customers-who-never-order](https://github.com/Vinjain301/Leetcode_problems/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Vinjain301/Leetcode_problems/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Vinjain301/Leetcode_problems/tree/master/0196-delete-duplicate-emails) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Vinjain301/Leetcode_problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/Vinjain301/Leetcode_problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Vinjain301/Leetcode_problems/tree/master/0596-classes-more-than-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vinjain301/Leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
