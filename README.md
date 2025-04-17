@@ -18,4 +18,5 @@ Each solution is stored in a separate file. Folder organization (optional):
 | [1258-article-views-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Vinjain301/Leetcode_problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinjain301/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [2024-calculate-special-bonus](https://github.com/Vinjain301/Leetcode_problems/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
