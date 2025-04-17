@@ -13,6 +13,7 @@ Each solution is stored in a separate file. Folder organization (optional):
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/Vinjain301/Leetcode_problems/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Vinjain301/Leetcode_problems/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Vinjain301/Leetcode_problems/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1258-article-views-i) |
