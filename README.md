@@ -21,6 +21,7 @@ Each solution is stored in a separate file. Folder organization (optional):
 | [0196-delete-duplicate-emails](https://github.com/Vinjain301/Leetcode_problems/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/Vinjain301/Leetcode_problems/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Vinjain301/Leetcode_problems/tree/master/0596-classes-more-than-5-students) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vinjain301/Leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1258-article-views-i) |
 | [1291-immediate-food-delivery-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1291-immediate-food-delivery-i) |
