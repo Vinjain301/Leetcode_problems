@@ -26,6 +26,7 @@ Each solution is stored in a separate file. Folder organization (optional):
 | [1258-article-views-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1258-article-views-i) |
 | [1291-immediate-food-delivery-i](https://github.com/Vinjain301/Leetcode_problems/tree/master/1291-immediate-food-delivery-i) |
 | [1453-ads-performance](https://github.com/Vinjain301/Leetcode_problems/tree/master/1453-ads-performance) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vinjain301/Leetcode_problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1625-group-sold-products-by-the-date](https://github.com/Vinjain301/Leetcode_problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Vinjain301/Leetcode_problems/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Vinjain301/Leetcode_problems/tree/master/1670-patients-with-a-condition) |
