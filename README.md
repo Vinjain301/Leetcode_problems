@@ -26,6 +26,7 @@ Each solution is stored in a separate file. Folder organization (optional):
 | [1811-fix-names-in-a-table](https://github.com/Vinjain301/Leetcode_problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Vinjain301/Leetcode_problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinjain301/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/Vinjain301/Leetcode_problems/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/Vinjain301/Leetcode_problems/tree/master/2024-calculate-special-bonus) |
 | [2885-count-occurrences-in-text](https://github.com/Vinjain301/Leetcode_problems/tree/master/2885-count-occurrences-in-text) |
 <!---LeetCode Topics End-->
