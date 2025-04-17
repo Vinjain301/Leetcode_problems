@@ -30,6 +30,7 @@ Each solution is stored in a separate file. Folder organization (optional):
 | [1670-patients-with-a-condition](https://github.com/Vinjain301/Leetcode_problems/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Vinjain301/Leetcode_problems/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Vinjain301/Leetcode_problems/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/Vinjain301/Leetcode_problems/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Vinjain301/Leetcode_problems/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Vinjain301/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/Vinjain301/Leetcode_problems/tree/master/1948-rearrange-products-table) |
