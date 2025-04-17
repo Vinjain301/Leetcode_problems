@@ -7,3 +7,11 @@ A comprehensive collection of Leet Code problems solved by me in Python, SQL, an
 
 ## 📂 Repository Structure
 Each solution is stored in a separate file. Folder organization (optional):
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Vinjain301/Leetcode_problems/tree/master/0595-big-countries) |
+<!---LeetCode Topics End-->
