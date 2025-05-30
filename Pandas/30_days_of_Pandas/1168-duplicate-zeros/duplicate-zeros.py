@@ -3,17 +3,30 @@ class Solution:
         """
         Do not return anything, modify arr in-place instead.
         """
+        n=len(arr)
         i=0
-        while i<len(arr):
-            j=len(arr)-2
-            if arr[i]==0:
-                while j>i:
-                    arr[j+1]=arr[j]
+        count=0
+        for num in arr:
+            if num==0:
+                count+=1
+        if count>0:
+            i=n-1
+            j=n-1+count
+            while j>i:
+                if j<n:
+                    arr[j]=arr[i]
+                if arr[i]==0:
                     j-=1
-                arr[j+1]=0
-                i+=2
-                continue
-            i+=1
+                    if j<n:
+                        arr[j]=0
+    
+                    
+                i-=1
+                j-=1
+                
+
+    
+
 
                 
 
